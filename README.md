@@ -30,7 +30,7 @@
     <samp>
       [<a href="https://discordapp.com/users/1202103846877540412/" target="_blank">discord</a>]
       [<a href="https://t.me/shelljess" target="_blank">telegram</a>]
-      [<a href="https://nyet.eu.org/" target="_blank">website</a>]
+      [<a href="https://nyet.eu.org/mimi/" target="_blank">website</a>]
       [<a href="mailto:hashizki@nyet.eu.org" target="_blank">e-mail</a>]
     </samp>
   </p><br>
